@@ -5,7 +5,8 @@
     "number": 1,
     "imageUrl": "https://imgur.com/EVBrUlv",
     "rarity": "basic",
-    "info": "Info breve del personaje 1"
+    "info": "Info breve del personaje 1",
+     "albumId": "001"
   },
   {
     "stickerId": "002",
@@ -13,7 +14,9 @@
     "number": 2,
     "imageUrl": "https://imgur.com/yp8aWDN",
     "rarity": "basic",
-    "info": "Info breve del personaje 2"
+    "info": "Info breve del personaje 2",
+    "albumId": "002"
+
   },
   {
     "stickerId": "003",
@@ -21,7 +24,9 @@
     "number": 3,
     "imageUrl": "https://imgur.com/2x2VUtH",
     "rarity": "rare",
-    "info": "Info breve del personaje 3"
+    "info": "Info breve del personaje 3",
+    "albumId": "003"
+
   },
  {
     "stickerId": "004",
@@ -29,7 +34,7 @@
     "number": 4,
     "imageUrl": "https://imgur.com/hHf5Owp",
     "rarity": "rare",
-    "info": "Info breve del personaje 3"
+    "info": "Info breve del personaje 4".
   },
  {
     "stickerId": "005",
@@ -38,5 +43,7 @@
     "imageUrl": "https://imgur.com/VOHZe5l",
     "rarity": "rare",
     "info": "Info breve del personaje 3"
+   "albumId": "005"
+
   }
 ]
