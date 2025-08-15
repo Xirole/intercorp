@@ -34,7 +34,8 @@
     "number": 4,
     "imageUrl": "https://imgur.com/hHf5Owp",
     "rarity": "rare",
-    "info": "Info breve del personaje 4"
+    "info": "Info breve del personaje 4",
+       "albumId": "004"
   },
  {
     "stickerId": "005",
