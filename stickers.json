@@ -3,7 +3,7 @@
     "stickerId": "001",
     "name": "Personaje 1",
     "number": 1,
-    "imageUrl": "https://imgur.com/EVBrUlv",
+    "imageUrl": "https://i.imgur.com/EVBrUlv.png",
     "rarity": "basic",
     "info": "Info breve del personaje 1",
     "albumId": "001"
@@ -12,7 +12,7 @@
     "stickerId": "002",
     "name": "Personaje 2",
     "number": 2,
-    "imageUrl": "https://imgur.com/yp8aWDN",
+    "imageUrl": "https://i.imgur.com/yp8aWDN.png",
     "rarity": "basic",
     "info": "Info breve del personaje 2",
     "albumId": "002"
@@ -21,7 +21,7 @@
     "stickerId": "003",
     "name": "Personaje 3",
     "number": 3,
-    "imageUrl": "https://imgur.com/2x2VUtH",
+    "imageUrl": "https://i.imgur.com/2x2VUtH.png",
     "rarity": "rare",
     "info": "Info breve del personaje 3",
     "albumId": "003"
@@ -30,7 +30,7 @@
     "stickerId": "004",
     "name": "Personaje 4",
     "number": 4,
-    "imageUrl": "https://imgur.com/hHf5Owp",
+    "imageUrl": "https://i.imgur.com/hHf5Owp.png",
     "rarity": "rare",
     "info": "Info breve del personaje 4",
     "albumId": "004"
@@ -39,7 +39,7 @@
     "stickerId": "005",
     "name": "Personaje 5",
     "number": 5,
-    "imageUrl": "https://imgur.com/VOHZe5l",
+    "imageUrl": "https://i.imgur.com/VOHZe5l.png",
     "rarity": "rare",
     "info": "Info breve del personaje 3",
     "albumId": "005"
