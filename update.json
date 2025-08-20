@@ -1,6 +1,6 @@
 {
   "latest_version": 2,
-  "message": "¡Hay una nueva versión de la app! Descárgala ahora para acceder a nuevas funciones.",
-  "url": "https://raw.githubusercontent.com/tu_usuario/tu_repo/main/nueva-apk.apk",
+  "message": "Bienvenido a la apk Gestion InterCorp.",
+  "url": "",
   "force_update": false
 }
