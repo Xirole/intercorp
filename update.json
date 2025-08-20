@@ -1,0 +1,6 @@
+{
+  "latest_version": 2,
+  "message": "¡Hay una nueva versión de la app! Descárgala ahora para acceder a nuevas funciones.",
+  "url": "https://raw.githubusercontent.com/tu_usuario/tu_repo/main/nueva-apk.apk",
+  "force_update": false
+}
