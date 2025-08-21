@@ -1,6 +1,16 @@
 {
   "latest_version": 1,
-  "message": "¡Holaaa! Se agregó una nueva función para ordenar por fecha de vencimiento. ¡Actualiza ahora para probarla! Ojo: Se ha detectado un bug crítico, debes actualizar para continuar usando la app.",
+  "message":“Hola 
+✳️Nuevas Funciones
+✅Botón Buscar 
+✅Nuevo dato cliente Detalle 
+✅Notificaciónes de nuevas actualizaciones 
+✅Se agregó [Detalles] para poder agregar información adicional como cuentas servicios,  correos. Etc. 
+(Datos para hacer recordar al cliente 
+🔴RECUERDEN QUE LA APLICACIÓN TENDRAS MEJORAS POCO  A POCO NO IGNOREN ESTAS NOTIFICACIONES🔴
+
+INTERCORP CONECTANDO TU MUNDO 
+",
   "download_url": "https://raw.githubusercontent.com/Xirole/intercorp/refs/heads/main/app-release.apk",
   "force_update": false,
   "show_message": true,
