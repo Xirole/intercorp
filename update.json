@@ -1,6 +1,6 @@
 {
   "latest_version": 1,
-  "message": "¡Holaaaaaa! Se agregó una nueva función para ordenar por fecha de vencimiento. ¡Actualiza ahora para probarla! Ojo: Se ha detectado un bug crítico, debes actualizar para continuar usando la app.",
+  "message": "¡Holaaa! Se agregó una nueva función para ordenar por fecha de vencimiento. ¡Actualiza ahora para probarla! Ojo: Se ha detectado un bug crítico, debes actualizar para continuar usando la app.",
   "download_url": "https://raw.githubusercontent.com/Xirole/intercorp/refs/heads/main/app-release.apk",
   "force_update": false,
   "show_message": true,
