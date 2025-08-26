@@ -1,8 +1,8 @@
 {
-  "latest_version": 1,
-  "message": "Hola 👋\n\n✳️ *Nuevas funciones:*\n✅ Botón Buscar\n✅ Botón Editar\n✅ Nuevo dato cliente: 'Detalle'\n✅ Notificaciones de nuevas actualizaciones\n✅ Se agregó [Detalles] para incluir información adicional como cuentas de servicios, correos, etc., en los mensajes personalizados (¡ideal para recordar datos del cliente!)\n✅ Nuevo dato cliente: 'Correo', para quienes usan este tipo de contacto\n✅ Se agregó el detalle [Correo] para usarlo en los mensajes personalizados\n\n✅ Botón Remplazar, te permite remplazar en todos tus clientes los datos  *nombre, servicio o correo* \n🔴 *Recuerden:* la aplicación tendrá mejoras poco a poco. ¡No ignoren estas notificaciones! 🔴\n\nINTERCORP — Conectando tu mundo 🌐",
+  "latest_version": 2,
+  "message": "Hola 👋\n\n✳️ *Correciones:*\n✅ Ahora las notificaciones toman mensajes personalizados o defaults de l aplicación✅ Nueva version 2.0\n🔴 *Recuerden:* la aplicación tendrá mejoras poco a poco. ¡No ignoren estas notificaciones! 🔴\n\nINTERCORP — Conectando tu mundo 🌐",
   "download_url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/app-release.apk",
   "force_update": false,
-  "show_message": false,
+  "show_message": true,
   "close_app": false
 }
