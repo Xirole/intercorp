@@ -1,6 +1,6 @@
 {
-  "latest_version": 5,
-  "message": "Hola 👋\n\n✳️ *¿Que hay de nuevo?:*✳️\n️✅✅ Nuevo Estilo\n Se acomodo Diálog agregar,editar\n Se agrego funcion de agregar numero y contacto desde agenda de contacto\n notificaciones0\n\n\n🔴Primero hace backup y luego instalación limpia  JHOOOOOON🔴\n🔴 *Recuerden:* la aplicación tendrá mejoras poco a poco. ¡No ignoren estas notificaciones! 🔴\n\nINTERCORP — Conectando tu mundo 🌐",
+  "latest_version": 6,
+  "message": "Hola 👋\n\n✳️ *¿Qué hay de nuevo?* ✳️\n\n✅ Nuevo estilo\n✅ La verificación del token ahora es diaria, no cada vez que se ingresa a la app\n✅ Se cambiaron los colores de texto para mejor visualización\n\n🔴 Primero hacé backup y luego instalación limpia — JHOOOOOON 🔴\n🔴 *Recuerden:* la aplicación tendrá mejoras poco a poco. ¡No ignoren estas notificaciones! 🔴\n\nINTERCORP — Conectando tu mundo 🌐",
   "download_url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/app-release.apk",
   "force_update": false,
   "show_message": false,
