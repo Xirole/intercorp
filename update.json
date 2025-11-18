@@ -1,6 +1,6 @@
 {
-  "latest_version": 9,
-  "message": "Hola 👋\n\n✳️ *¿Qué hay de nuevo?* ✳️\n\n✅ Verificación mensual (no diaria)\n✅ Días reflejados en el título de la app\n✅ Señalización en botón WhatsApp para evitar doble notificación\n\n🔴 Primero hacé backup y luego instalación limpia — JHOOOOOON 🔴\n🔴 *Recuerden:* la aplicación tendrá mejoras poco a poco. ¡No ignoren estas notificaciones!* 🔴\n\nINTERCORP — Conectando tu mundo 🌐",
+  "latest_version": 10,
+  "message": "Hola 👋\n\n✳️ *¿Qué hay de nuevo?* ✳️\n\n✅ Mensajes personalizados funcionales \n✅Nuevo botones de menu, menu inicio con metricas(mas adelante) \n✅ Señalización en botón WhatsApp para evitar doble notificación\n\n🔴 Primero hacé backup y luego instalación limpia — JHOOOOOON 🔴\n🔴 *Recuerden:* la aplicación tendrá mejoras poco a poco. ¡No ignoren estas notificaciones!* 🔴\n\nINTERCORP — Conectando tu mundo 🌐",
   "download_url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/app-release.apk",
   "force_update": false,
   "show_message": false,
