@@ -3,6 +3,6 @@
   "message": "Hola 👋\n\n✳️ *¿Qué hay de nuevo?* ✳️\n\n✅ Ultima actualizacion(Dios quiera)  \n✅Cuando das a remplazar te sale los usaurios afectados   \n✅la opcion remplazar puede remplazar multiple cosas separadas por ´,´ de igual maner abajo hay poner la misma cantidad de cosas \n\n✅Notificaciones funcionando ahora cada doce horas  \n\n🔴 Primero hacé backup y luego instalación limpia — JHOOOOOON 🔴\n🔴 *Recuerden:* la aplicación tendrá mejoras poco a poco. ¡No ignoren estas notificaciones!* 🔴\n\nINTERCORP — Conectando tu mundo 🌐",
   "download_url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/app-release.apk",
   "force_update": false,
-  "show_message": true,
+  "show_message": false,
   "close_app": false
 }
