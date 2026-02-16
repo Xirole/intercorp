@@ -1,7 +1,9 @@
 {
   "autorizados": [
-    { "hwid": "abc123xyz" },
-    { "hwid": "4768d1f90b4b73d1" },
-    { "hwid": "A8B67164" }
+    "abc123xyz",
+    "4768d1f90b4b73d1",
+    "A8B67164",
+    "def456uvw",
+    "73319ce08bb8849d"
   ]
 }
