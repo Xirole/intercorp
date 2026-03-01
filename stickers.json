@@ -1,47 +1,21 @@
-[
-  {
-    "stickerId": "001",
-    "name": "Personaje 1",
-    "number": 1,
-    "imageUrl": "https://i.imgur.com/EVBrUlv.png",
-    "rarity": "basic",
-    "info": "Info breve del personaje 1",
-    "albumId": "001"
+{
+  "update_info": [
+    {
+      "name": "Launcher Mod",
+      "paquete": "intercorp.com.taskintercorp",
+      "version": 1,
+      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/app-release.apk"
+    }
+  ],
+  "client_message": {
+    "show": true,
+    "text": "Bienvenido al Launcher Intercorp - V1.0",
+    "color": "#FF0000"
   },
-  {
-    "stickerId": "002",
-    "name": "Personaje 2",
-    "number": 2,
-    "imageUrl": "https://i.imgur.com/yp8aWDN.png",
-    "rarity": "basic",
-    "info": "Info breve del personaje 2",
-    "albumId": "002"
-  },
-  {
-    "stickerId": "003",
-    "name": "Personaje 3",
-    "number": 3,
-    "imageUrl": "https://i.imgur.com/2x2VUtH.png",
-    "rarity": "rare",
-    "info": "Info breve del personaje 3",
-    "albumId": "003"
-  },
-  {
-    "stickerId": "004",
-    "name": "Personaje 4",
-    "number": 4,
-    "imageUrl": "https://i.imgur.com/hHf5Owp.png",
-    "rarity": "rare",
-    "info": "Info breve del personaje 4",
-    "albumId": "004"
-  },
-  {
-    "stickerId": "005",
-    "name": "Personaje 5",
-    "number": 5,
-    "imageUrl": "https://i.imgur.com/VOHZe5l.png",
-    "rarity": "rare",
-    "info": "Info breve del personaje 3",
-    "albumId": "005"
-  }
-]
+  "launcher_apps": [
+    "com.netflix.mediaclient",
+    "com.google.android.youtube.tv",
+    "com.disney.disneyplus",
+    "intercorp.com.taskintercorp"
+  ]
+}
