@@ -13,9 +13,9 @@
     "color": "#FF0000"
   },
   "launcher_apps": [
-    "com.netflix.mediaclient",
-    "com.google.android.youtube.tv",
-    "com.disney.disneyplus",
+    "TaskInterCorp",
+    "Netflix",
+    "Youtube",
     "intercorp.com.taskintercorp"
   ]
 }
