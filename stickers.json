@@ -9,13 +9,12 @@
   ],
   "client_message": {
     "show": true,
-    "text": "Probando lauhcer mods mensajeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+    "text": "Probando launcher mods - ¡Bienvenido!",
     "color": "#FF0000"
   },
   "launcher_apps": [
-    "TaskInterCorp",
-    "Netflix",
-    "Youtube",
+    "Netflix", 
+    "Youtube", 
     "intercorp.com.taskintercorp",
     "Ajustes"
   ]
