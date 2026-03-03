@@ -1,17 +1,12 @@
 {
   "update_info": [
     {
-      "name": "Smartube",
-      "paquete": "com.liskovsoft.smarttubetv.beta",
-      "version": 3,
-      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/com.liskovsoft.smarttubetv.beta_23.32-1522_minAPI17(armeabi-v7a)(nodpi)_apkmirror.com.apk"
-    },
-    {
-      "name": "Nebula",
-      "paquete": "intercorp.com.nebula",
-      "version": 3,
-      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/demo-noDecoderExtensions-release%20(1).apk"
+      "name": ">Ajustes Configuracion",
+      "paquete": "intercorp.com.lauchermod",
+      "version": 2,
+      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/TVWIZ-LIBRE.apk"
     }
+    
   ],
   "client_message": {
     "show": true,
