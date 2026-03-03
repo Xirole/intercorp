@@ -19,10 +19,10 @@
     "color": "#FFC0CB"
   },
   "launcher_apps": [
-    "com.teamsmart.videofree",
-    "com.google.android.youtube",
-    "intercorp.com.taskintercorp",
-    "com.android.settings",
-    "intercorp.com.nebula"
+     "Smartube", 
+     "Youtube", 
+     "intercorp.com.taskintercorp",
+     "Ajustes",
+     "Nebula"
   ]
 }
