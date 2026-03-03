@@ -2,7 +2,7 @@
   "update_info": [
     {
       "name": "Smartube",
-      "paquete": "com.teamsmart.videofree",
+      "paquete": "com.liskovsoft.smarttubetv.beta",
       "version": 3,
       "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/com.liskovsoft.smarttubetv.beta_23.32-1522_minAPI17(armeabi-v7a)(nodpi)_apkmirror.com.apk"
     },
