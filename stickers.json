@@ -5,12 +5,18 @@
       "paquete": "intercorp.com.taskintercorp",
       "version": 3,
       "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/demo-noDecoderExtensions-release%20(1).apk"
+    },
+       {
+      "name": "Task",
+      "paquete": "intercorp.com.taskintercorp",
+      "version": 3,
+      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/app-release.apk"
     }
   ],
   "client_message": {
     "show": true,
     "text": "Recuerda que toda modificacion de esta app puede afectar tus futuras actualizaciones por consiguiente llevara al retiro del aparato",
-    "color": "#FF0000"
+    "color": "#FFC0CB"
   },
   "launcher_apps": [
     "Netflix", 
