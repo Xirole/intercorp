@@ -1,10 +1,16 @@
 {
   "update_info": [
     {
-      "name": "Launcher Mod",
+      "name": "Smartube",
       "paquete": "intercorp.com.taskintercorp",
       "version": 3,
-      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/app-debug.apk"
+      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/SmartTube_stable_30.75_arm64-v8a.apk"
+    },
+     {
+      "name": "Nebula",
+      "paquete": "intercorp.com.taskintercorp",
+      "version": 3,
+      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/demo-noDecoderExtensions-release%20(1).apk"
     }
   ],
   "client_message": {
@@ -13,7 +19,7 @@
     "color": "#FFC0CB"
   },
   "launcher_apps": [
-    "Netflix", 
+     "Smartube", 
     "Youtube", 
     "intercorp.com.taskintercorp",
     "Ajustes",
