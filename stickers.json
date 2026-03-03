@@ -4,13 +4,7 @@
       "name": "Launcher Mod",
       "paquete": "intercorp.com.taskintercorp",
       "version": 3,
-      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/demo-noDecoderExtensions-release%20(1).apk"
-    },
-       {
-      "name": "Task",
-      "paquete": "intercorp.com.taskintercorp",
-      "version": 3,
-      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/app-release.apk"
+      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/app-debug.apk"
     }
   ],
   "client_message": {
