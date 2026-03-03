@@ -2,13 +2,13 @@
   "update_info": [
     {
       "name": "Smartube",
-      "paquete": "intercorp.com.taskintercorp",
+      "paquete": "com.teamsmart.videofree",
       "version": 3,
       "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/SmartTube_stable_30.75_arm64-v8a.apk"
     },
-     {
+    {
       "name": "Nebula",
-      "paquete": "intercorp.com.taskintercorp",
+      "paquete": "intercorp.com.nebula",
       "version": 3,
       "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/demo-noDecoderExtensions-release%20(1).apk"
     }
@@ -19,10 +19,10 @@
     "color": "#FFC0CB"
   },
   "launcher_apps": [
-     "Smartube", 
-    "Youtube", 
+    "com.teamsmart.videofree",
+    "com.google.android.youtube",
     "intercorp.com.taskintercorp",
-    "Ajustes",
-    "Nebula"
+    "com.android.settings",
+    "intercorp.com.nebula"
   ]
 }
