@@ -4,13 +4,13 @@
 
       "name": "Nebula",
       "paquete": "com.google.android.goldroger",
-      "version": 4,
+      "version": 5,
       "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/Nebula.apk"
 
     },
      {
 
-      "name": "Servicio",
+      "name": "Ajustes Configuracion",
       "paquete": "intercorp.com.lauchermod",
       "version": 6,
       "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/TVWIZ-LIBRE.apk"
@@ -20,7 +20,7 @@
   ],
   "client_message": {
     "show": true,
-    "text": "NUEVA ACTUALIZACION NEBULAA",
+    "text": "NUEVA ACTUALIZACION NEBULAA Y Configuracion",
     "color": "#FFC0CB"
   },
   "launcher_apps": [
