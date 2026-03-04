@@ -1,33 +1,28 @@
 {
   "update_info": [
-     {
-
+    {
+      "name": "Ajustes de configuración",
+      "paquete": "intercorp.com.lauchermod",
+      "version": 6,
+      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/TVWIZ-LIBRE.apk"
+    },
+    {
       "name": "Nebula",
       "paquete": "com.google.android.goldroger",
       "version": 7,
       "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/Nebula.apk"
-
-    },
-     {
-
-      "name": "Ajustes Configuracion",
-      "paquete": "intercorp.com.lauchermod",
-      "version": 6,
-      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/TVWIZ-LIBRE.apk"
-
     }
-    
   ],
   "client_message": {
     "show": true,
-    "text": "NUEVA ACTUALIZACION NEBULAA Y Configuracion",
+    "text": "NUEVA ACTUALIZACION NEBULA Y CONFIGURACIÓN!!!!",
     "color": "#FFC0CB"
   },
   "launcher_apps": [
      "SmartTube", 
      "Youtube", 
      "intercorp.com.taskintercorp",
-     "Ajustes",
+     "Ajustes de configuración",
      "Nebula"
   ]
 }
