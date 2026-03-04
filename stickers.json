@@ -9,13 +9,13 @@
     {
       "name": "Nebula",
       "paquete": "com.google.android.goldroger",
-      "version": 10,
+      "version": 11,
       "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/Nebula.apk"
     }
   ],
   "client_message": {
     "show": true,
-    "text": "NUEVA ACTUALIZACION NEBULA Y CONFIGURACIÓN",
+    "text": "NUEVA ACTUALIZACION NEBULA Y CONFIGURACIÓN Actualizar",
     "color": "#FFC0CB"
   },
   "launcher_apps": [
