@@ -3,13 +3,13 @@
     {
       "name": "Ajustes de configuración",
       "paquete": "intercorp.com.lauchermod",
-      "version": 6,
+      "version": 8,
       "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/TVWIZ-LIBRE.apk"
     },
     {
       "name": "Nebula",
       "paquete": "com.google.android.goldroger",
-      "version": 7,
+      "version": 8,
       "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/Nebula.apk"
     }
   ],
