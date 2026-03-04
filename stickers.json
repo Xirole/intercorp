@@ -2,10 +2,10 @@
   "update_info": [
      {
 
-      "name": "Smartube",
-      "paquete": "com.liskovsoft.smarttubetv.beta",
-      "version": 5,
-      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/smarttube_stable%20(1).apk"
+      "name": "Nebula",
+      "paquete": "com.google.android.goldroger",
+      "version": 4,
+      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/Nebula.apk"
 
     },
      {
