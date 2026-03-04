@@ -1,10 +1,12 @@
 {
   "update_info": [
-    {
-      "name": ">Ajustes Configuracion",
-      "paquete": "intercorp.com.lauchermod",
-      "version": 2,
-      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/TVWIZ-LIBRE.apk"
+     {
+
+      "name": "Smartube",
+      "paquete": "com.liskovsoft.smarttubetv.beta",
+      "version": 4,
+      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/smarttube_stable%20(1).apk"
+
     }
     
   ],
@@ -14,7 +16,7 @@
     "color": "#FFC0CB"
   },
   "launcher_apps": [
-     "SmartTube beta", 
+     "SmartTube", 
      "Youtube", 
      "intercorp.com.taskintercorp",
      "Ajustes",
