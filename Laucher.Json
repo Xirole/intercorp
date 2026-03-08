@@ -1,0 +1,26 @@
+{
+  "client_message": {
+    "color": "#000000",
+    "show": true,
+    "text": "Test"
+  },
+  "launcher_apps": [
+    "test",
+    "hola",
+    "permiso"
+  ],
+  "update_info": [
+    {
+      "name": "test",
+      "paquete": "uke",
+      "url": "app otA",
+      "version": 1
+    },
+    {
+      "name": "hola",
+      "paquete": "anda",
+      "url": "juju",
+      "version": 4949
+    }
+  ]
+}
