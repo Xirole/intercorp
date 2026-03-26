@@ -1,26 +1,29 @@
 {
   "client_message": {
-    "color": "#000000",
+    "color": "#FF0022",
     "show": true,
-    "text": "Test"
+    "text": "Actualiza TU APP"
   },
   "launcher_apps": [
-    "test",
-    "hola",
-    "permiso"
+    "SmartTube",
+    "Nebula Nuevo",
+    "Ajustes",
+    "Configuración",
+    "Smartube",
+    "TV"
   ],
   "update_info": [
     {
-      "name": "test",
-      "paquete": "uke",
-      "url": "app otA",
-      "version": 1
+      "name": "Laucher",
+      "paquete": "intercorp.com.lauchermod",
+      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/TVWIZ.apk",
+      "version": 234
     },
     {
-      "name": "hola",
-      "paquete": "anda",
-      "url": "juju",
-      "version": 4949
+      "name": "Nebula Nuevo",
+      "paquete": "com.tv.tv",
+      "url": "https://github.com/M3ximlive/prueba/releases/download/3s2s/tutv.apk",
+      "version": 2
     }
   ]
 }
