@@ -14,10 +14,10 @@
   ],
   "update_info": [
     {
-      "name": "Ajustes",
+      "name": "Ajustes test",
       "paquete": "intercorp.com.lauchermod",
       "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/TVWIZ.apk",
-      "version": 235
+      "version": 2300
     },
     {
       "name": "Nebula Nuevo",
