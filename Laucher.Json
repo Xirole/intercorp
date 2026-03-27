@@ -14,16 +14,16 @@
   ],
   "update_info": [
     {
-      "name": "Laucher",
+      "name": "Ajustes",
       "paquete": "intercorp.com.lauchermod",
-      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/TVWIZ.apk",
-      "version": 234
+      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/TVWIZ.apk",
+      "version": 235
     },
     {
       "name": "Nebula Nuevo",
       "paquete": "com.tv.tv",
       "url": "https://github.com/M3ximlive/prueba/releases/download/3s2s/tutv.apk",
-      "version": 2
+      "version": 3
     }
   ]
 }
