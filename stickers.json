@@ -1,34 +1,36 @@
 {
-  "update_info": [
-    {
-      "name": "Ajustes de configuración",
-      "paquete": "intercorp.com.lauchermod",
-      "version": 8,
-      "url": "https://github.com/Xirole/Inter-corp-pro/raw/refs/heads/main/TVWIZ-LIBRE.apk"
-    },
-    {
-      "name": "Nebula",
-      "paquete": "com.google.android.goldroger",
-      "version": 13,
-      "url": "https://github.com/Xirole/Inter-corp-pro/raw/refs/heads/main/Nebula.apk"
-    },
-     {
-      "name": "Smartube",
-      "paquete": "org.smartube.stable",
-      "version": 13,
-      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/smarttube_stable%20(1).apk"
-    }
-  ],
   "client_message": {
+    "color": "#FF0022",
     "show": true,
-    "text": "NUEVA ACTUALIZACION Smartube, Nebula, COnfiguracion Servicio ACTUALIZAR IMPORTANTE",
-    "color": "#FF5722"
+    "text": "Actualiza"
   },
   "launcher_apps": [
-     "SmartTube", 
-     "Youtube", 
-     "intercorp.com.taskintercorp",
-     "Ajustes de configuración",
-     "Nebula"
+    "SmartTube",
+    "Nebula Nuevo",
+    "Ajustes update",
+    "Ajustes",
+    "Configuración",
+    "Smartube",
+    "TV"
+  ],
+  "update_info": [
+    {
+      "name": "SmartTube",
+      "paquete": "org.smarttube.stable",
+      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/smarttube_stable%20(1).apk",
+      "version": 4
+    },
+    {
+      "name": "Nebula Nuevo",
+      "paquete": "com.tv.tv",
+      "url": "https://github.com/M3ximlive/prueba/releases/download/3s2s/tutv.apk",
+      "version": 14
+    },
+    {
+      "name": "Ajustes update",
+      "paquete": "intercorp.com.lauchermod",
+      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/TVWIZv2.apk",
+      "version": 246
+    }
   ]
 }
