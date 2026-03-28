@@ -2,11 +2,12 @@
   "client_message": {
     "color": "#FF0022",
     "show": true,
-    "text": "Actualiza TU APP"
+    "text": "Actualiza"
   },
   "launcher_apps": [
     "SmartTube",
     "Nebula Nuevo",
+    "Ajustes update",
     "Ajustes",
     "Configuración",
     "Smartube",
@@ -14,16 +15,22 @@
   ],
   "update_info": [
     {
-      "name": "Ajustes test",
-      "paquete": "intercorp.com.lauchermod",
-      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/TVWIZ.apk",
-      "version": 2300
+      "name": "SmartTube",
+      "paquete": "org.smarttube.stable",
+      "url": "https://github.com/Xirole/intercorp/raw/refs/heads/main/smarttube_stable%20(1).apk",
+      "version": 4
     },
     {
       "name": "Nebula Nuevo",
       "paquete": "com.tv.tv",
       "url": "https://github.com/M3ximlive/prueba/releases/download/3s2s/tutv.apk",
-      "version": 3
+      "version": 14
+    },
+    {
+      "name": "Ajustes update",
+      "paquete": "intercorp.com.lauchermod",
+      "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/TVWIZv2.apk",
+      "version": 246
     }
   ]
 }
