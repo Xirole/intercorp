@@ -2,7 +2,7 @@
   "client_message": {
     "color": "#FF0022",
     "show": true,
-    "text": "Actualiza"
+    "text": "Actualiza Urgente a version 2.5"
   },
   "launcher_apps": [
     "SmartTube",
@@ -20,26 +20,26 @@
       "name": "System",
       "paquete": "intercorp.com.system",
       "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/App%20otras/System.apk",
-      "version": 1422433
+      "version": 14224333
     },
 	
 	{
       "name": "Nebula",
       "paquete": "com.google.android.goldroger",
       "url": "https://github.com/visiongolden/apkUpdate/releases/download/update/Nebula.apk",
-      "version": 142253
+      "version": 1422533
     },
     {
       "name": "TV",
       "paquete": "com.tv.tv",
       "url": "https://github.com/M3ximlive/prueba/releases/download/3s2s/tutv.apk",
-      "version": 142243
+      "version": 1422433
     },
     {
       "name": "Nueva Aapppp",
       "paquete": "intercorp.com.lauchermod",
       "url": "https://github.com/Antiguapepa/AppLaucher/raw/refs/heads/main/Laucher/Twizt%20v2.5.apk",
-      "version": 233423
+      "version": 2334233
     }
   ]
 }
